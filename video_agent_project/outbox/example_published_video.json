@@ -1,0 +1,11 @@
+{
+  "platform": "douyin",
+  "video_url": "https://www.douyin.com/video/7123456789012345678",
+  "video_id": "7123456789012345678",
+  "title": "视频标题",
+  "tags": "标签1, 标签2",
+  "local_stem": "demo",
+  "published_at": "2026-05-16T10:30:00Z",
+  "source": "group1_publish",
+  "monitor_status": "pending"
+}

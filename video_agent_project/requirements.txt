@@ -1,0 +1,6 @@
+playwright==1.42.0
+playwright-stealth==1.0.6
+beautifulsoup4==4.12.3
+pydantic==2.6.3
+requests==2.31.0
+setuptools>=69.0.0,<81
