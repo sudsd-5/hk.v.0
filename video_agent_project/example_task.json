@@ -1,8 +1,0 @@
-{
-  "video_path": "ready_to_publish/demo.mp4",
-  "title": "视频标题（txt 第一行）",
-  "tags": "标签1, 标签2",
-  "status": "pending",
-  "updated_at": "2026-05-16T08:00:00Z",
-  "error": null
-}
